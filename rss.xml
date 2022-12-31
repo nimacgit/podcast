@@ -3,7 +3,7 @@
      xmlns:castbox="http://castbox.fm/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/"
      version="2.0">
     <channel>
-        <atom:link href="http://rss.castbox.fm/everest/7925db9a06764942aea04eececbf8682.xml" type="application/rss+xml" rel="self"/>
+        <atom:link href="https://raw.githubusercontent.com/nimacgit/podcast/main/rss.xml" type="application/rss+xml" rel="self"/>
         <copyright>&amp;copy; 2022</copyright>
         <!-- <link>https://castbox.fm/ch/5113575</link> -->
         <language>fa</language>
