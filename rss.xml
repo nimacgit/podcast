@@ -14,10 +14,11 @@
         <castbox:type></castbox:type>
         <itunes:summary><![CDATA[ itunes summary ]]></itunes:summary>
         <itunes:subtitle></itunes:subtitle>
-        <itunes:author>nimac</itunes:author>
-        <itunes:owner>
-            <itunes:email>nimacpod@gmail.com</itunes:email>
-        </itunes:owner>
+         <itunes:author>Azarakhsh Mokri</itunes:author>
+         <itunes:owner>
+           <itunes:name>Azarakhsh Mokri</itunes:name>
+           <itunes:email>azarakhshmokripod@gmail.com</itunes:email>
+         </itunes:owner>
         <itunes:image href="https://s3.castbox.fm/b5/5b/2d/162909401c8f194e5e86817ee8.jpg"/>
         <itunes:keywords>Religion &amp; Spirituality,Islam,Spirituality</itunes:keywords>
         <itunes:category text="Religion &amp; Spirituality">
