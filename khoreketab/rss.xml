@@ -1,67 +1,196 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
-     version="2.0">
-    <channel>
-        <atom:link href="https://raw.githubusercontent.com/nimacgit/podcast/main/rss.xml" type="application/rss+xml" rel="self"/>
-        <copyright>&amp;copy; 2022</copyright>
-        <link>https://github.com/nimacgit/podcast/blob/main/rss.xml</link>
-        <language>fa</language>
-        <title>آرشیو خوره کتاب - KhoreKetab archive</title>
-        <description><![CDATA[اپیزودهای آرشیو شده خوره کتاب
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+        
+<channel>
+            
+	<atom:link href="https://github.com/nimacgit/podcast/blob/main/rss.xml" type="application/rss+xml" rel="self"/>
+            
+	<copyright>&amp;copy; 2022</copyright>
+            
+	<link> https://github.com/nimacgit/podcast/blob/main/rss.xml </link>
+            
+	<language>fa</language>
+            
+	<title> آرشیو خوره کتاب - KhoreKetab archive </title>
+            
+	<description><![CDATA[ 
+اپیزودهای آرشیو شده خوره کتاب
 ما (شیما و هاتف) پادکست خوره کتاب رو می‌سازیم و اینجا می‌خوایم به نقل از کتاب‌ها براتون از "آزادی" بگیم.
-
 KhoreKetab.com
-
 ما اینجاها فعالیم: اینستاگرام - تلگرام - یوتیوب - وبسایت
-]]></description>
-<!--         <castbox:uid>e2ba3a729ac74f92bb31fa632de06bef</castbox:uid> -->
-<!--         <castbox:pid>5113575</castbox:pid> --> 
-        <itunes:summary><![CDATA[ itunes summary ]]></itunes:summary>
-        <itunes:subtitle></itunes:subtitle>
-        <itunes:author>Nimac</itunes:author>
-        <itunes:owner>
-          <itunes:name>Nimac</itunes:name>
-          <itunes:email>nimacpod@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:category text="Religion &amp; Spirituality"/>
-        <itunes:image href="https://raw.githubusercontent.com/nimacgit/podcast/main/khoreketab/khoreketab.webp"/>
-        <itunes:explicit>no</itunes:explicit>
+ ]]></description>
+    
+	<!--         <castbox:uid>e2ba3a729ac74f92bb31fa632de06bef</castbox:uid> -->
+    
+	<!--         <castbox:pid>5113575</castbox:pid> -->
+	 
+            
+	<itunes:summary><![CDATA[ 
+اپیزودهای آرشیو شده خوره کتاب
+ما (شیما و هاتف) پادکست خوره کتاب رو می‌سازیم و اینجا می‌خوایم به نقل از کتاب‌ها براتون از "آزادی" بگیم.
+KhoreKetab.com
+ما اینجاها فعالیم: اینستاگرام - تلگرام - یوتیوب - وبسایت
+ ]]></itunes:summary>
+            
+	<itunes:subtitle/>
+            
+	<itunes:author>KhoreKetab</itunes:author>
+            
+	<itunes:owner>
+	
+              
+		<itunes:name>Nimac</itunes:name>
+	
+              
+		<itunes:email>nimacpod@gmail.com</itunes:email>
+	
+            
+	</itunes:owner>
+            
+	<itunes:category text="Religion &amp; Spirituality"/>
+            
+	<itunes:image href="https://raw.githubusercontent.com/nimacgit/podcast/main/khoreketab/khoreketab.webp"/>
+            
+	<itunes:explicit>no</itunes:explicit>
 
-        <item>
-            <title>کتاب روح و زندگی - نوشته کارل گوستاو یونگ</title>
-            <description><![CDATA[  <p> در قسمت اول پادکست یه فنجون کتاب به سراغ یه کتاب کمتر شناخته شده از کارل یونگ – روانشناس و روانکاو سوییسی – یعنی کتاب روح و زندگی رفتیم. دو قسمت از این کتاب رو با عنوان های غریزه گروهی انسان واخلاق عملکرد جادوانه روح از صفحات 201  و 256 رو بازخوانی کردیم.
-
+            
+    
+	<item>
+	
+                
+		<title>کتاب روح و زندگی - نوشته کارل گوستاو یونگ</title>
+	
+                
+		<description>
+			 decription 
+<![CDATA[ <p> در قسمت اول پادکست یه فنجون کتاب به سراغ یه کتاب کمتر شناخته شده از کارل یونگ – روانشناس و روانکاو سوییسی – یعنی کتاب روح و زندگی رفتیم. دو قسمت از این کتاب رو با عنوان های غریزه گروهی انسان واخلاق عملکرد جادوانه روح از صفحات 201  و 256 رو بازخوانی کردیم.
 ما اینجاها فعالیم: اینستاگرام – تلگرام – یوتیوب – وبسایت
-
 حمایت مالی از خوره کتاب
-
 گوینده و نویسنده: شیما
 تدوینگر: هاتف
 موسیقی متن: ترک Runaway از Ramin Djawadi
-
-تلاش ما اینه که قسمت های پادکست کوتاه و کمتر از 15 دقیقه باشن. امیدوارم که از شنیدن اولین قسمت پادکست یه فنجون کتاب لذت ببرید. </p>  ]]></description>
-            <content:encoded><![CDATA[  <p> در قسمت اول پادکست یه فنجون کتاب به سراغ یه کتاب کمتر شناخته شده از کارل یونگ – روانشناس و روانکاو سوییسی – یعنی کتاب روح و زندگی رفتیم. دو قسمت از این کتاب رو با عنوان های غریزه گروهی انسان واخلاق عملکرد جادوانه روح از صفحات 201  و 256 رو بازخوانی کردیم.
-
+تلاش ما اینه که قسمت های پادکست کوتاه و کمتر از 15 دقیقه باشن. امیدوارم که از شنیدن اولین قسمت پادکست یه فنجون کتاب لذت ببرید. </p>
+]]>			</description>
+	
+                
+		<content:encoded><![CDATA[ <p> در قسمت اول پادکست یه فنجون کتاب به سراغ یه کتاب کمتر شناخته شده از کارل یونگ – روانشناس و روانکاو سوییسی – یعنی کتاب روح و زندگی رفتیم. دو قسمت از این کتاب رو با عنوان های غریزه گروهی انسان واخلاق عملکرد جادوانه روح از صفحات 201  و 256 رو بازخوانی کردیم.
 ما اینجاها فعالیم: اینستاگرام – تلگرام – یوتیوب – وبسایت
-
 حمایت مالی از خوره کتاب
-
 گوینده و نویسنده: شیما
 تدوینگر: هاتف
 موسیقی متن: ترک Runaway از Ramin Djawadi
-
-تلاش ما اینه که قسمت های پادکست کوتاه و کمتر از 15 دقیقه باشن. امیدوارم که از شنیدن اولین قسمت پادکست یه فنجون کتاب لذت ببرید. </p>  ]]></content:encoded>
-            <itunes:summary> </itunes:summary>
-            <itunes:image href="https://khoreketab.com/wp-content/webp-express/webp-images/uploads/2020/08/E1.jpg.webp"/>
-            <enclosure url="https://download.khoreketab.com/podcast/ye-fenjun-ketab/s1/ye-fenjun-ketab-s1-e1.mp3" type="audio/mp3" length="23330115"/>
-            <itunes:duration>00:06:48</itunes:duration>
-            <guid>album-7925db9a06764942aea04eececbf8682-ce4372a9f3bc410eab0a7946c2078c4a</guid>
-            <pubDate>Sat, 31 Dec 2022 05:45:00 +0000</pubDate>
-            <author></author>
-            <author_picture></author_picture>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:season>1</itunes:season>
-        </item>
-    </channel>
+تلاش ما اینه که قسمت های پادکست کوتاه و کمتر از 15 دقیقه باشن. امیدوارم که از شنیدن اولین قسمت پادکست یه فنجون کتاب لذت ببرید. </p>
+]]></content:encoded>
+	
+                
+		<itunes:summary><![CDATA[ <p> در قسمت اول پادکست یه فنجون کتاب به سراغ یه کتاب کمتر شناخته شده از کارل یونگ – روانشناس و روانکاو سوییسی – یعنی کتاب روح و زندگی رفتیم. دو قسمت از این کتاب رو با عنوان های غریزه گروهی انسان واخلاق عملکرد جادوانه روح از صفحات 201  و 256 رو بازخوانی کردیم.
+ما اینجاها فعالیم: اینستاگرام – تلگرام – یوتیوب – وبسایت
+حمایت مالی از خوره کتاب
+گوینده و نویسنده: شیما
+تدوینگر: هاتف
+موسیقی متن: ترک Runaway از Ramin Djawadi
+تلاش ما اینه که قسمت های پادکست کوتاه و کمتر از 15 دقیقه باشن. امیدوارم که از شنیدن اولین قسمت پادکست یه فنجون کتاب لذت ببرید. </p>
+]]></itunes:summary>
+	
+                
+		<itunes:image href="https://khoreketab.com/wp-content/webp-express/webp-images/uploads/2020/08/E1.jpg.webp"/>
+	
+                
+		<enclosure url="https://download.khoreketab.com/podcast/ye-fenjun-ketab/s1/ye-fenjun-ketab-s1-e1.mp3" type="audio/mp3" length="23330115"/>
+	
+                
+		<itunes:duration>00:06:48</itunes:duration>
+	
+                
+		<guid>album-7925db9a06764942aea04eececbf8682-ce4372a9f3bc410eab0a7946c2078c4a</guid>
+	
+                
+		<pubDate>Sat, 31 Dec 2022 05:45:00 +0000</pubDate>
+	
+                
+		<author>KhoreKetab</author>
+	
+                
+		<author_picture/>
+	
+                
+		<itunes:explicit>no</itunes:explicit>
+	
+                
+		<itunes:season>1</itunes:season>
+	
+            
+	</item>
+    
+    
+	<item>
+	
+                
+		<title>معرفی کتاب انسان در جستجوی معنا نوشته ویکتور فرانکل</title>
+	
+                
+		<description>
+			 decription 
+<![CDATA[
+در قسمت دوم پادکست یه فنجون کتاب به سراغ کتاب شناخته شده ویکتور فرانکل یعنی کتاب انسان در جستجوی معنا رفتیم.
+ما اینجاها فعالیم: اینستاگرام – تلگرام – یوتیوب – وبسایت
+حمایت مالی از خوره کتاب
+گوینده و نویسنده: شیما
+تدوینگر: هاتف
+موسیقی متن: ترک Rajaz از Camel
+]]>			</description>
+	
+                
+		<content:encoded><![CDATA[
+در قسمت دوم پادکست یه فنجون کتاب به سراغ کتاب شناخته شده ویکتور فرانکل یعنی کتاب انسان در جستجوی معنا رفتیم.
+ما اینجاها فعالیم: اینستاگرام – تلگرام – یوتیوب – وبسایت
+حمایت مالی از خوره کتاب
+گوینده و نویسنده: شیما
+تدوینگر: هاتف
+موسیقی متن: ترک Rajaz از Camel
+]]></content:encoded>
+	
+                
+		<itunes:summary><![CDATA[
+در قسمت دوم پادکست یه فنجون کتاب به سراغ کتاب شناخته شده ویکتور فرانکل یعنی کتاب انسان در جستجوی معنا رفتیم.
+ما اینجاها فعالیم: اینستاگرام – تلگرام – یوتیوب – وبسایت
+حمایت مالی از خوره کتاب
+گوینده و نویسنده: شیما
+تدوینگر: هاتف
+موسیقی متن: ترک Rajaz از Camel
+]]></itunes:summary>
+	
+                
+		<itunes:image href="https://khoreketab.com/wp-content/webp-express/webp-images/uploads/2020/08/قسمت-2-پادکست-یه-فنجون-کتاب.png.webp"/>
+	
+                
+		<enclosure url="https://download.khoreketab.com/podcast/ye-fenjun-ketab/s1/ye-fenjun-ketab-s1-e2.mp3" type="audio/mp3" length="12183997"/>
+	
+                
+		<itunes:duration>00:12:37</itunes:duration>
+	
+                
+		<guid>album-7925db9a06764942aea04eececbf8682-ce4372a9f3bc410eab0a7946c2078c4b</guid>
+	
+                
+		<pubDate>Sat, 31 Dec 2022 05:46:00 +0000</pubDate>
+	
+                
+		<author>KhoreKetab</author>
+	
+                
+		<author_picture/>
+	
+                
+		<itunes:explicit>no</itunes:explicit>
+	
+                
+		<itunes:season>1</itunes:season>
+	
+            
+	</item>
+    
+        
+</channel>
+    
 </rss>
