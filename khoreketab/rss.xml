@@ -1,66 +1,63 @@
 <?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-        
+    
 <channel>
-            
+        
 	<atom:link href="https://github.com/nimacgit/podcast/blob/main/rss.xml" type="application/rss+xml" rel="self"/>
-            
+        
 	<copyright>&amp;copy; 2022</copyright>
-            
+        
 	<link> https://github.com/nimacgit/podcast/blob/main/rss.xml </link>
-            
+        
 	<language>fa</language>
-            
+        
 	<title> آرشیو خوره کتاب - KhoreKetab archive </title>
-            
+        
 	<description><![CDATA[ 
 اپیزودهای آرشیو شده خوره کتاب
 ما (شیما و هاتف) پادکست خوره کتاب رو می‌سازیم و اینجا می‌خوایم به نقل از کتاب‌ها براتون از "آزادی" بگیم.
 KhoreKetab.com
 ما اینجاها فعالیم: اینستاگرام - تلگرام - یوتیوب - وبسایت
  ]]></description>
-    
-	<!--         <castbox:uid>e2ba3a729ac74f92bb31fa632de06bef</castbox:uid> -->
-    
-	<!--         <castbox:pid>5113575</castbox:pid> -->
-	 
-            
+        
+	<!--<castbox:uid>e2ba3a729ac74f92bb31fa632de06bef</castbox:uid>-->
+        
+	<!--<castbox:pid>5113575</castbox:pid>-->
+        
 	<itunes:summary><![CDATA[ 
 اپیزودهای آرشیو شده خوره کتاب
 ما (شیما و هاتف) پادکست خوره کتاب رو می‌سازیم و اینجا می‌خوایم به نقل از کتاب‌ها براتون از "آزادی" بگیم.
 KhoreKetab.com
 ما اینجاها فعالیم: اینستاگرام - تلگرام - یوتیوب - وبسایت
  ]]></itunes:summary>
-            
+        
 	<itunes:subtitle/>
-            
+        
 	<itunes:author>KhoreKetab</itunes:author>
-            
+        
 	<itunes:owner>
 	
-              
+          
 		<itunes:name>Nimac</itunes:name>
 	
-              
+          
 		<itunes:email>nimacpod@gmail.com</itunes:email>
 	
-            
+        
 	</itunes:owner>
-            
+        
 	<itunes:category text="Religion &amp; Spirituality"/>
-            
+        
 	<itunes:image href="https://raw.githubusercontent.com/nimacgit/podcast/main/khoreketab/khoreketab.webp"/>
-            
+        
 	<itunes:explicit>no</itunes:explicit>
-
-            
-    
+        
 	<item>
 	
-                
+    
 		<title>کتاب روح و زندگی - نوشته کارل گوستاو یونگ</title>
 	
-                
+    
 		<description>
 			 
 <![CDATA[ <p> در قسمت اول پادکست یه فنجون کتاب به سراغ یه کتاب کمتر شناخته شده از کارل یونگ – روانشناس و روانکاو سوییسی – یعنی کتاب روح و زندگی رفتیم. دو قسمت از این کتاب رو با عنوان های غریزه گروهی انسان واخلاق عملکرد جادوانه روح از صفحات 201  و 256 رو بازخوانی کردیم.
@@ -72,7 +69,7 @@ KhoreKetab.com
 تلاش ما اینه که قسمت های پادکست کوتاه و کمتر از 15 دقیقه باشن. امیدوارم که از شنیدن اولین قسمت پادکست یه فنجون کتاب لذت ببرید. </p>
 ]]>			</description>
 	
-                
+    
 		<content:encoded><![CDATA[ <p> در قسمت اول پادکست یه فنجون کتاب به سراغ یه کتاب کمتر شناخته شده از کارل یونگ – روانشناس و روانکاو سوییسی – یعنی کتاب روح و زندگی رفتیم. دو قسمت از این کتاب رو با عنوان های غریزه گروهی انسان واخلاق عملکرد جادوانه روح از صفحات 201  و 256 رو بازخوانی کردیم.
 ما اینجاها فعالیم: اینستاگرام – تلگرام – یوتیوب – وبسایت
 حمایت مالی از خوره کتاب
@@ -82,7 +79,7 @@ KhoreKetab.com
 تلاش ما اینه که قسمت های پادکست کوتاه و کمتر از 15 دقیقه باشن. امیدوارم که از شنیدن اولین قسمت پادکست یه فنجون کتاب لذت ببرید. </p>
 ]]></content:encoded>
 	
-                
+    
 		<itunes:summary><![CDATA[ <p> در قسمت اول پادکست یه فنجون کتاب به سراغ یه کتاب کمتر شناخته شده از کارل یونگ – روانشناس و روانکاو سوییسی – یعنی کتاب روح و زندگی رفتیم. دو قسمت از این کتاب رو با عنوان های غریزه گروهی انسان واخلاق عملکرد جادوانه روح از صفحات 201  و 256 رو بازخوانی کردیم.
 ما اینجاها فعالیم: اینستاگرام – تلگرام – یوتیوب – وبسایت
 حمایت مالی از خوره کتاب
@@ -92,43 +89,42 @@ KhoreKetab.com
 تلاش ما اینه که قسمت های پادکست کوتاه و کمتر از 15 دقیقه باشن. امیدوارم که از شنیدن اولین قسمت پادکست یه فنجون کتاب لذت ببرید. </p>
 ]]></itunes:summary>
 	
-                
+    
 		<itunes:image href="https://khoreketab.com/wp-content/webp-express/webp-images/uploads/2020/08/E1.jpg.webp"/>
 	
-                
+    
 		<enclosure url="https://download.khoreketab.com/podcast/ye-fenjun-ketab/s1/ye-fenjun-ketab-s1-e1.mp3" type="audio/mp3" length="23330115"/>
 	
-                
+    
 		<itunes:duration>00:06:48</itunes:duration>
 	
-                
+    
 		<guid>album-7925db9a06764942aea04eececbf8682-ce4372a9f3bc410eab0a7946c2078c4a</guid>
 	
-                
+    
 		<pubDate>Sat, 31 Dec 2022 05:45:00 +0000</pubDate>
 	
-                
+    
 		<author>KhoreKetab</author>
 	
-                
+    
 		<author_picture/>
 	
-                
+    
 		<itunes:explicit>no</itunes:explicit>
 	
-                
+    
 		<itunes:season>1</itunes:season>
 	
-            
 	</item>
     
-    
+
 	<item>
 	
-                
+    
 		<title>کتاب انسان در جستجوی معنا نوشته ویکتور فرانکل</title>
 	
-                
+    
 		<description>
 			 
 <![CDATA[
@@ -140,7 +136,7 @@ KhoreKetab.com
 موسیقی متن: ترک Rajaz از Camel
 ]]>			</description>
 	
-                
+    
 		<content:encoded><![CDATA[
 در قسمت دوم پادکست یه فنجون کتاب به سراغ کتاب شناخته شده ویکتور فرانکل یعنی کتاب انسان در جستجوی معنا رفتیم.
 ما اینجاها فعالیم: اینستاگرام – تلگرام – یوتیوب – وبسایت
@@ -150,7 +146,7 @@ KhoreKetab.com
 موسیقی متن: ترک Rajaz از Camel
 ]]></content:encoded>
 	
-                
+    
 		<itunes:summary><![CDATA[
 در قسمت دوم پادکست یه فنجون کتاب به سراغ کتاب شناخته شده ویکتور فرانکل یعنی کتاب انسان در جستجوی معنا رفتیم.
 ما اینجاها فعالیم: اینستاگرام – تلگرام – یوتیوب – وبسایت
@@ -160,43 +156,42 @@ KhoreKetab.com
 موسیقی متن: ترک Rajaz از Camel
 ]]></itunes:summary>
 	
-                
+    
 		<itunes:image href="https://khoreketab.com/wp-content/webp-express/webp-images/uploads/2020/08/قسمت-2-پادکست-یه-فنجون-کتاب.png.webp"/>
 	
-                
+    
 		<enclosure url="https://download.khoreketab.com/podcast/ye-fenjun-ketab/s1/ye-fenjun-ketab-s1-e2.mp3" type="audio/mp3" length="12183997"/>
 	
-                
+    
 		<itunes:duration>00:12:37</itunes:duration>
 	
-                
+    
 		<guid>album-7925db9a06764942aea04eececbf8682-ce4372a9f3bc410eab0a7946c2078c4b</guid>
 	
-                
+    
 		<pubDate>Sat, 31 Dec 2022 05:46:00 +0000</pubDate>
 	
-                
+    
 		<author>KhoreKetab</author>
 	
-                
+    
 		<author_picture/>
 	
-                
+    
 		<itunes:explicit>no</itunes:explicit>
 	
-                
+    
 		<itunes:season>1</itunes:season>
 	
-            
 	</item>
     
-    
+
 	<item>
 	
-                
+    
 		<title>کتاب روان درمانی اگزیستانسیال - نوشته اروین یالوم</title>
 	
-                
+    
 		<description>
 			 
 <![CDATA[
@@ -209,7 +204,7 @@ KhoreKetab.com
 موسیقی متن: ترک Hey You از Pink Floyd
 ]]>			</description>
 	
-                
+    
 		<content:encoded><![CDATA[
 در قسمت سوم پادکست یه فنجون کتاب به سراغ کتاب شناخته شده اروین یالوم یعنی کتاب روان درمانی اگزیستانسیال رفتیم.
 امیدواریم که از شنیدن این قسمت لذت ببرید.
@@ -220,7 +215,7 @@ KhoreKetab.com
 موسیقی متن: ترک Hey You از Pink Floyd
 ]]></content:encoded>
 	
-                
+    
 		<itunes:summary><![CDATA[
 در قسمت سوم پادکست یه فنجون کتاب به سراغ کتاب شناخته شده اروین یالوم یعنی کتاب روان درمانی اگزیستانسیال رفتیم.
 امیدواریم که از شنیدن این قسمت لذت ببرید.
@@ -231,43 +226,42 @@ KhoreKetab.com
 موسیقی متن: ترک Hey You از Pink Floyd
 ]]></itunes:summary>
 	
-                
+    
 		<itunes:image href="https://khoreketab.com/wp-content/webp-express/webp-images/uploads/2020/08/کاور-قسمت-3-روان-درمانی-اگزیستانسیال.png.webp"/>
 	
-                
+    
 		<enclosure url="https://download.khoreketab.com/podcast/ye-fenjun-ketab/s1/ye-fenjun-ketab-s1-e3.mp3" type="audio/mp3" length="12759167"/>
 	
-                
+    
 		<itunes:duration>00:08:47</itunes:duration>
 	
-                
+    
 		<guid>album-7925db9a06764942aea04eececbf8682-ce4372a9f3bc410eab0a7946ca000003</guid>
 	
-                
+    
 		<pubDate>Sat, 31 Dec 2022 05:47:00 +0000</pubDate>
 	
-                
+    
 		<author>KhoreKetab</author>
 	
-                
+    
 		<author_picture/>
 	
-                
+    
 		<itunes:explicit>no</itunes:explicit>
 	
-                
+    
 		<itunes:season>1</itunes:season>
 	
-            
 	</item>
     
-    
+
 	<item>
 	
-                
+    
 		<title>کتاب روانشناسی و دین نوشته کارل یونگ</title>
 	
-                
+    
 		<description>
 			 
 <![CDATA[
@@ -279,7 +273,7 @@ KhoreKetab.com
 موسیقی متن: ترک Stairway to Heaven از Led Zeppelin
 ]]>			</description>
 	
-                
+    
 		<content:encoded><![CDATA[
 در قسمت چهارم پادکست یه فنجون کتاب به سراغ کتاب کمتر شناخته شده ای از کارل یونگ، به اسم روانشناسی و دین رفتیم. امیدواریم از شنیدن این قسمت و خوندن این کتاب لذت ببرید. 
 ما اینجاها فعالیم: اینستاگرام – تلگرام – یوتیوب – وبسایت
@@ -289,7 +283,7 @@ KhoreKetab.com
 موسیقی متن: ترک Stairway to Heaven از Led Zeppelin
 ]]></content:encoded>
 	
-                
+    
 		<itunes:summary><![CDATA[
 در قسمت چهارم پادکست یه فنجون کتاب به سراغ کتاب کمتر شناخته شده ای از کارل یونگ، به اسم روانشناسی و دین رفتیم. امیدواریم از شنیدن این قسمت و خوندن این کتاب لذت ببرید. 
 ما اینجاها فعالیم: اینستاگرام – تلگرام – یوتیوب – وبسایت
@@ -299,43 +293,42 @@ KhoreKetab.com
 موسیقی متن: ترک Stairway to Heaven از Led Zeppelin
 ]]></itunes:summary>
 	
-                
+    
 		<itunes:image href="https://khoreketab.com/wp-content/webp-express/webp-images/uploads/2020/09/%DA%A9%D8%A7%D9%88%D8%B1-%D9%82%D8%B3%D9%85%D8%AA-%DA%86%D9%87%D8%A7%D8%B1%D9%85.png.webp"/>
 	
-                
+    
 		<enclosure url="https://download.khoreketab.com/podcast/ye-fenjun-ketab/s1/ye-fenjun-ketab-s1-e4.mp3" type="audio/mp3" length="19223677"/>
 	
-                
+    
 		<itunes:duration>00:13:16</itunes:duration>
 	
-                
+    
 		<guid>album-7925db9a06764942aea04eececbf8682-ce4372a9f3bc410eab0a7946ca000004</guid>
 	
-                
+    
 		<pubDate>Sat, 31 Dec 2022 05:48:00 +0000</pubDate>
 	
-                
+    
 		<author>KhoreKetab</author>
 	
-                
+    
 		<author_picture/>
 	
-                
+    
 		<itunes:explicit>no</itunes:explicit>
 	
-                
+    
 		<itunes:season>1</itunes:season>
 	
-            
 	</item>
     
-    
+
 	<item>
 	
-                
+    
 		<title>کتاب هفت عادت مردمان موثر نوشته استفان کاوی</title>
 	
-                
+    
 		<description>
 			 
 <![CDATA[
@@ -347,7 +340,7 @@ KhoreKetab.com
 موسیقی متن: ترک One More Light از Linkin Park
 ]]>			</description>
 	
-                
+    
 		<content:encoded><![CDATA[
 در قسمت پنجم پادکست یه فنجون کتاب، کتاب شناخته شده 7 عادت مردمان موثر اثر استفاون کاوی رو انتخاب کردیم. امیدواریم که از شنیدن این قسمت لذت ببرید.
 ما اینجاها فعالیم: اینستاگرام – تلگرام – یوتیوب – وبسایت
@@ -357,7 +350,7 @@ KhoreKetab.com
 موسیقی متن: ترک One More Light از Linkin Park
 ]]></content:encoded>
 	
-                
+    
 		<itunes:summary><![CDATA[
 در قسمت پنجم پادکست یه فنجون کتاب، کتاب شناخته شده 7 عادت مردمان موثر اثر استفاون کاوی رو انتخاب کردیم. امیدواریم که از شنیدن این قسمت لذت ببرید.
 ما اینجاها فعالیم: اینستاگرام – تلگرام – یوتیوب – وبسایت
@@ -367,37 +360,36 @@ KhoreKetab.com
 موسیقی متن: ترک One More Light از Linkin Park
 ]]></itunes:summary>
 	
-                
+    
 		<itunes:image href="https://khoreketab.com/wp-content/webp-express/webp-images/uploads/2020/09/%D9%82%D8%B3%D9%85%D8%AA-5-%D9%87%D9%81%D8%AA-%D8%B9%D8%A7%D8%AF%D8%AA-%D9%85%D8%B1%D8%AF%D9%85%D8%A7%D9%86-%D9%85%D9%88%D8%AB%D8%B1-mp3-image.jpg.webp"/>
 	
-                
+    
 		<enclosure url="https://download.khoreketab.com/podcast/ye-fenjun-ketab/s1/ye-fenjun-ketab-s1-e5.mp3" type="audio/mp3" length="20465834"/>
 	
-                
+    
 		<itunes:duration>00:08:29</itunes:duration>
 	
-                
+    
 		<guid>album-7925db9a06764942aea04eececbf8682-ce4372a9f3bc410eab0a7946ca000005</guid>
 	
-                
+    
 		<pubDate>Sat, 11 Mar 2023 06:05:00 +0000</pubDate>
 	
-                
+    
 		<author>KhoreKetab</author>
 	
-                
+    
 		<author_picture/>
 	
-                
+    
 		<itunes:explicit>no</itunes:explicit>
 	
-                
+    
 		<itunes:season>1</itunes:season>
 	
-            
 	</item>
     
-        
-</channel>
     
+</channel>
+
 </rss>
